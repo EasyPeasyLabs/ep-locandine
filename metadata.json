@@ -1,0 +1,5 @@
+{
+  "name": "EP Locandine",
+  "description": "PWA per la creazione di locandine promozionali per Easy Peasy Lemon Squeezy con esportazione PDF/PNG e persistenza Firestore.",
+  "requestFramePermissions": []
+}
